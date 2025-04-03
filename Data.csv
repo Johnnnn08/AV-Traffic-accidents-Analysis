@@ -1,4 +1,4 @@
-Report Year,Model Year,Mileage,Street,Parking Lot,Highway / Freeway,Intersection,Roadway(0 is dry) Surface,Posted Speed Limit (MPH),"Daylight(Daylight3, Dawn'dusk2, dark-light1, dark-not light+J8270)",Weather - Clear,Weather - Snow,Weather - Cloud1,Weather - Fog/Smoke,Weather - Rain,Weather - Severe Wind,Weather - Unknown,Weather - Thunder,Passenger Car,Non-Motorist: Cyclist,Heavy Truck,SUV,Animal,Van,Pickup Truck,No Injuries Reported,Minor,Moderate,Serious,Property Damage?,Severity
+Report Year,Model Year,Mileage,Street,Parking Lot,Highway / Freeway,Intersection,Roadway(0 is dry) Surface,Posted Speed Limit (MPH),"Daylight(Daylight3, Dawn dusk2, dark-light1, dark-no light0)",Weather - Clear,Weather - Snow,Weather - Cloud1,Weather - Fog/Smoke,Weather - Rain,Weather - Severe Wind,Weather - Unknown,Weather - Thunder,Passenger Car,Non-Motorist: Cyclist,Heavy Truck,SUV,Animal,Van,Pickup Truck,No Injuries Reported,Minor,Moderate,Serious,Property Damage?,Severity
 0,2024,6527,0,0,0,1,0,45,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,3
 0,2021,83212,0,0,0,1,0,25,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1
 0,2024,2573,1,0,0,0,0,20,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1
